@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+
+body {font-family: "Times New Roman", Georgia, Serif;
+      background-color: White  ;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <strong><a href="#home" class="w3-bar-item w3-button w3-text-green">Cost of Living around the world</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <strong><a href="#about" class="w3-bar-item w3-button w3-text-green">About</a>
+      <strong><a href="#Methodology" class="w3-bar-item w3-button w3-text-green">Methodology</a>
+        <strong><a href="#Findings" class="w3-bar-item w3-button w3-text-green">Findings</a>
+     <strong><a href="#Members" class="w3-bar-item w3-button w3-text-green">Members</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;min-width:600px" id="home">
+  <img src="/images/map.png" alt="world" width="1400" height="900" class="center">
+  <div class="center">
+    <h1 class="w3-xxlarge"></h1>
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1100px">
+
+  <!-- About Section -->
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-small ">
+     <img src="/images/money.png"  alt="Table Setting" width="400" height="700">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+    <strong><h1 class="w3-center w3-text-green " >About our project</h1><br>
+      <h5 class="w3-center">Study, analyze and  visualize the cost of living index & others around the world and be able to display several comparisons based on continents, countries and/or cities</h5>
+      <p class="w3-large">It is well known that the gross domestic product (GDP).GDP = private consumption + gross investment + government investment + government spending + (exports – imports). For the gross domestic product, “gross” means that the GDP measures production regardless of the various uses to which the product can be put.
+      often an indicator for international comparisons.
+      The cost of living are periodically calculated in nearly representative baskets of consumer goods.Many factors are complicating a worldwide comparison.For example a typical apartment may not have a standard size nor fittings,even the quality of a branded packet of butter isn't the same in the Third World.
+      Consequently, comparisons like this have to to be accepted with caution.
+      For this project, we wanted to consider few other factors such as:
+      The price of the cup of coffee,
+      The minimum wage,
+      Cost of housing (rent),
+      Food/grocery Accessibility,
+      Gas price,
+      Internet Accessibility.
+      </p></h4><br>
+      We ended up using the cost of living index and the local purchasing power index.
+
+    <span class="w3-tag w3-light-grey"></span></p>
+      <p class="w3-large w3-text-grey w3-hide-medium"></p>
+    </div>
+  </div>
+
+  <hr>
+
+  <!--  Section -->
+  <div class="w3-row w3-padding-64" id="Methodology">
+    <div class="w3-col m6 w3-padding-small ">
+      <img src="/images/data.png"  alt="Table Setting" width="400" height="700"></div>
+      <div class="w3-col m6 w3-padding-large">
+
+      <strong><h1 class="w3-center w3-text-green">Methodology </h1><br>
+
+     </p></h4><br>
+
+      <h3>Data gathering and processing</h3>
+      <p class="w3-text-black">Our data came mainly from <a href="https://www.kaggle.com/andytran11996/cost-of-living" target="_blank" class="w3-center w3-text-green"> Kaggle </a><br>We wanted to compare the changes in Living'costs over the past three years <a href="https://github.com/ericcheechee/Cost-of-Living-Around-the-Globe-/blob/master/cost_of_living_data_combine.csv" target="_blank" class="w3-center w3-text-green"> (2016-2017-2018)</a>.
+        Kaggle was an amazing and accurate tool to do so.Once we downloaded the datas, we realized that there were few irregularities.In fact we had to create a new column named "country".We then used an Excel <a href="https://knowledgebase.constantcontact.com/articles/KnowledgeBase/6142-separate-contacts-first-name-and-last-name-in-excel?lang=en_US" target="_blank" class="w3-center w3-text-green"> method</a> to properly
+        seperate the states and the countries (only for United States) in order to match the rest of the data.Once done, we were able to properly use the datas.
+        After this first step, we quickly realized that we were facing another challenge which was generating the coordinates for all 500 cities listed in our database.We were ready to spend few days googling every single city and manually entering the matching coordinates.But Allen helpt us creating a loop that simply looped through our database and gave us the correspondng coordinates in our notebook.
+
+      </p></h4><br>
+      </p></h4><br>
+    </p></h4><br>
+      </p></h4><br>
+    </p>
+  </div>
+   </p></h4><br>
+
+   <div class="w3-row w3-padding-64" id="">
+     <div class="w3-col m6 w3-padding-small ">
+       <img src="/images/rotating.gif" alt="Table Setting" width="500" height="700"></div>
+       <div class="w3-col m6 w3-padding-large">
+
+       <strong><h1 class="w3-center w3-text-green"> </h1><br>
+
+      </p></h4><br>
+      </p></h4><br>
+      </p></h4><br>
+
+       <h3>Data Visualisation</h3>
+       <p class="w3-text-black">Once we obtained a clean dataset, we went on<a href="https://www.mapbox.com/" target="_blank" class="w3-center w3-text-green"> Mapbox </a>  to get an API key that was then stored in a Config.js in order to generate the upcoming maps.
+         We then created an HTML container in which the maps could be renderred.Then we specified different parameters such as the map container element,the map type to use,the cercle radius, the zoom level at which to display the map and
+         the geographic coordinates of the point on which to center the map.
+         We generated few  <a href="http://0.0.0.0:8000/Cost-of-Living-Around-the-Globe--master/" target="_blank" class="w3-center w3-text-green"> Marker</a> based on our cleaned database.The maps is  based on a rent and local purchase index (which makes it easier to have an accurate measuremnt scale).
+       </p></h4><br>
+       </p></h4><br>
+         What is the Cost of Living Index? To calculate each city's Price Index value, we start by assigning a value of 100 to a central reference city. Once the reference point has been established, the Price Index value of every other city in the database is calculated by
+         comparing their cost of living to the cost of living in Prague.
+       </p></h4><br>
+       </p></h4><br>
+       </p></h4><br>
+       </p></h4><br>
+       </p></h4><br>
+
+       </p>
+       </div>
+       <strong><h3><class="w3-center w3-text-green"> AM chart map</h3>
+       You can find more maps <a href="http://0.0.0.0:8000/AMTest/" target="_blank" class="w3-center w3-text-green"> maps</a> based on the local purchase power.Furthermore, you can get more informations about each city by <a href="https://github.com/ericcheechee/Cost-of-Living-Around-the-Globe-/blob/master/AMTest/CostOfLiving.geojson" target="_blank" class="w3-center w3-text-green"> exploring the Json.</a>.
+       One thing to point out is that many countries are not reprensented in this datas.In fact out of 50,000 cities int eh world, only 500 were accurately represented in this dataset.These cities are mostly third world countries.
+       Once we zoom in into each city we can get more informations about the selected Accessibility.<img src="/images/AM.png"  alt="Table Setting" width="1000" height="800">
+
+
+
+
+      </p></h4><br>
+
+
+
+          <strong><h3><class="w3-center w3-text-green"> Heat Maps</h3>
+          <p class="w3-text-black">We also initiated several <a href="http://0.0.0.0:8000/sandbox/sandbox/heatmap/heat.html" target="_blank" class="w3-center w3-text-green"> heat maps</a> using the same dataset.A heatmap is a data visualization where a range of colors represent the density of points in a particular area.
+          Heatmaps help us see the shape of the data and highlight areas of concentration where many points are clustered closely together.The colors in a heatmap This style property controls the most important aspect of heatmap design how the density value of each pixel on a map translates to color.
+          </datalist>different year<a href=""> Javascript</a><br></p><br>
+          <img src="/images/heat1.png"  alt="Table Setting" width="1000" height="700">
+          <img src="/images/heat2.png"  alt="Table Setting" width="1000" height="700">
+
+
+
+         </p></h4><br>
+         </p></h4><br>
+         </p></h4><br>
+
+         <div class="w3-container w3-padding-64" id="Findings">
+           <h1> Findings</h1><br>
+           </p></h4><br>
+           <img src="/images/cities.png"  alt="Table Setting" width="1000" height="700">
+           </p></h4><br>
+           </p></h4><br>
+           <img src="/images/cities1.png"  alt="Table Setting" width="1000" height="700">
+           </p></h4><br>
+           </p></h4><br>
+           <img src="/images/cities3.png"  alt="Table Setting" width="1000" height="700">
+           </p></h4><br>
+           </p></h4><br>
+           <img src="/images/cities4.png"  alt="Table Setting" width="1000" height="700">
+         </p></h4><br>
+         </p>
+        </div>
+        <!--  Section -->
+
+
+
+
+    <div class="w3-col l6 w3-padding-large">
+    </div>
+  </div>
+
+  <hr>
+  </body>
+
+  <!-- Members Section -->
+  <div class="w3-container w3-padding-64" id="Members">
+    <h1>Members </h1><br>
+    <h4><p></p></h4>
+    <h4><p>Joel Abuzail</p></h4>
+    <h4><p>Eric Chee</p></h4>
+    <h4><p>Alex Davis</p></h4>
+    <h4><p>Cora Gnikobou</p></h4>
+    <h4><p>Jesus Lara</p></h4>
+
+
+    </p></h4><br>
+
+    <h1><p class="w3-text-Teal"><b> More questions?</b></p></h1>
+
+  <h5><p>You can see our complete work on Github </h5>
+    <form action="/action_page.php" target="_blank">
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
+      <p><input class="w3-input w3-padding-16" type="Section" placeholder="I need more explanation about" required name="People"></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Ask your question" required name="Message"></p>
+      <p><button class="w3-button w3-light-grey w3-section" type="submit" a href="mailto:coralie1966208@gmail.com?Subject=morequestions" target="_top"</a>SEND MESSAGE</button></p>
+    </form>
+  </div>
+
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-light-blue w3-padding-32">
+  <p>Checkout our Github <a href="https://github.com/ericcheechee/Cost-of-Living-Around-the-Globe-/tree/master" target="_blank" title="Cost" target="_blank" class="w3-hover-text-green">Cost of living</a></p>
+</footer>
+
+</body>
+</html>

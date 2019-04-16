@@ -1,0 +1,483 @@
+City,Country,Cost of Living Index,Rent Index,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index
+Tirana,Albania,34.66,9.6,22.86,26.61,30.95,37.61
+Algiers,Algeria,33.92,10.12,22.71,34.02,26.54,41.82
+Buenos Aires,Argentina,58.25,16.83,38.75,46.73,58.47,59.82
+Cordoba,Argentina,52.34,11.03,32.89,42.93,45.65,71.7
+Yerevan,Armenia,34.56,11.6,23.75,26.56,31.68,33.66
+Adelaide,Australia,79.34,33.66,57.83,74,78.34,137.87
+Brisbane,Australia,78.97,46.68,63.76,71.87,78.81,131.13
+Cairns,Australia,78.5,30.75,56.02,72.96,79.96,87.29
+Canberra,Australia,75.97,44.15,60.99,73.4,75.45,164.92
+Darwin,Australia,88.44,45.92,68.42,91.04,92.33,121.99
+Gold Coast,Australia,74.66,37.66,57.24,69.54,70.4,130.71
+Hobart,Australia,79.52,29.52,55.98,74.64,86.37,110.79
+Melbourne,Australia,78.04,44.15,62.08,72.32,74.05,142.32
+Newcastle,Australia,76.56,42.79,60.66,76.51,79.19,141.59
+Perth,Australia,86.87,42.75,66.09,80.75,93.7,132.36
+Sydney,Australia,85.51,64.78,75.75,77,73.17,120.51
+Graz,Austria,63.95,21.68,44.05,50.22,62.74,130.65
+Linz,Austria,80.37,28.29,55.85,75.05,78.92,100.03
+Vienna,Austria,67.77,31.97,50.91,59.63,68.95,108.84
+Baku,Azerbaijan,29.25,10.84,20.58,24.09,32.12,35.76
+Nassau,Bahamas,99.74,38.38,70.84,92.09,96.24,43.77
+Manama,Bahrain,53.9,33.35,44.22,48.46,53.36,109.42
+Dhaka,Bangladesh,36.29,6.81,22.41,30.64,25.92,40.49
+Minsk,Belarus,33.93,13.09,24.12,27.39,37.85,39.74
+Antwerp,Belgium,79.2,27.41,54.81,70.48,89.04,99.12
+Brussels,Belgium,77.13,32.58,56.15,66.25,86.92,107.5
+Gent,Belgium,81.51,26.18,55.46,74.51,86.46,95.19
+Leuven,Belgium,79.98,27.04,55.06,78.84,77.48,89.13
+Hamilton,Bermuda,133.26,112.14,123.32,121.17,138.91,129.67
+Banja Luka,Bosnia And Herzegovina,35.66,6.73,22.04,28.4,26.8,55.04
+Sarajevo,Bosnia And Herzegovina,36.81,8.33,23.4,29.92,28.7,53.74
+Belo Horizonte,Brazil,46.94,13.22,31.07,37.26,34.83,44.89
+Brasilia,Brazil,51.46,17.01,35.24,39.84,46.02,59.25
+Campinas,Brazil,53.12,16.88,36.06,40.43,41.82,57.84
+Curitiba,Brazil,46.88,12.76,30.81,36.32,38.94,51.73
+Florianopolis,Brazil,47.82,14.07,31.93,37.11,40.28,49.19
+Porto Alegre,Brazil,49.84,13.36,32.66,38.76,41.31,51.62
+Recife,Brazil,50.25,13.65,33.02,42.1,34.71,41.76
+Rio De Janeiro,Brazil,56.26,23.99,41.06,39.84,50.61,46.38
+Sao Paulo,Brazil,54.19,21.85,38.96,41.02,48.29,43.82
+Plovdiv,Bulgaria,36.18,7.42,22.64,30.48,29.79,48.3
+Sofia,Bulgaria,38.7,10.94,25.63,32.08,31.21,59.88
+Varna,Bulgaria,36.48,8,23.07,31.04,29.62,45.72
+Phnom Penh,Cambodia,49.38,21.65,36.32,52.83,22.51,21.55
+Barrie,Canada,70.65,27.03,50.11,69.04,62.51,132.95
+Calgary,Canada,75.59,35.69,56.8,74.44,73.66,133
+Edmonton,Canada,73.06,30.22,52.89,70.74,70.87,116.49
+Guelph,Canada,67.01,27.88,48.58,62.84,64.47,100.78
+Halifax,Canada,75.05,26.91,52.38,77.71,74.58,104.39
+Hamilton,Canada,59.9,23.14,42.59,54.54,59.37,151.38
+Kelowna,Canada,64.99,30.58,48.79,62.44,66.14,121.53
+Kingston,Canada,66.85,27.83,48.48,65.65,65.24,110.89
+Kitchener,Canada,61.97,25.18,44.64,55.13,65.77,144.9
+London,Canada,69.28,23.59,47.77,69.51,64.44,114.87
+Mississauga,Canada,72.19,34.73,54.55,67.78,64.47,100.19
+Moncton,Canada,63.78,18.84,42.62,62.8,62.73,115.26
+Montreal,Canada,67.01,24.8,47.13,67.36,64.86,118.69
+Ottawa,Canada,67.78,30.36,50.16,62.92,72.53,126.53
+Quebec City,Canada,68.16,19.34,45.17,68.12,61.18,108.46
+Red Deer,Canada,74.37,27.38,52.24,69.18,71.19,99.54
+Regina,Canada,72.51,29.22,52.13,71.65,71.08,127.65
+Saskatoon,Canada,73.8,27.64,52.06,77,60.95,100.21
+Surrey,Canada,65.59,30.45,49.04,64.81,62.95,77.57
+Toronto,Canada,69.5,39.87,55.55,64.79,67.63,124.88
+Vancouver,Canada,70.54,45.13,58.58,73.37,66.45,101.38
+Victoria,Canada,70.56,31.55,52.19,73.34,64.7,111.43
+Waterloo,Canada,79.45,29.89,56.11,76.71,69.21,138.28
+Windsor,Canada,72.11,20.35,47.74,63.13,62.36,120.65
+Winnipeg,Canada,68.83,25.97,48.65,65.95,65.36,102.11
+Santiago,Chile,50.38,17.89,35.08,43.6,46.17,62.71
+Beijing,China,51.84,41.96,47.19,51.41,37.36,67.87
+Chengdu,China,37.72,12.05,25.63,33.12,25.9,85.05
+Guangzhou,China,44.77,22.03,34.06,47.2,26.34,75.9
+Shanghai,China,54.31,36.25,45.8,57.81,39.65,81.8
+Shenzhen,China,53.18,34.51,44.39,57.64,36.31,85.2
+Bogota,Colombia,36.18,14.18,25.82,30.39,26.07,40.46
+Cali,Colombia,29.41,7.29,18.99,24.06,22.65,35.29
+Medellin,Colombia,32.14,7.92,20.74,28.48,22.24,42.71
+San Jose,Costa Rica,60.32,20.83,41.72,59.38,49.18,45.17
+Osijek,Croatia,45.57,7,27.41,37.77,30.61,59.82
+Rijeka,Croatia,52.19,11.61,33.08,42.58,41.16,54.98
+Split,Croatia,52.56,11.85,33.39,43.51,49.19,56.46
+Zagreb,Croatia,50.48,12.81,32.75,42.22,40.13,69.54
+Limassol,Cyprus,57.89,16.9,38.59,45.02,66.97,101.9
+Nicosia,Cyprus,63.86,15.61,41.14,54.78,69.9,84.54
+Brno,Czech Republic,41.93,14.69,29.1,36.09,28.41,81.93
+Olomouc,Czech Republic,39.15,11.09,25.93,35.38,27.61,85.08
+Ostrava,Czech Republic,40.5,11,26.61,34.94,28.5,78.01
+Prague,Czech Republic,43.85,19.47,32.37,36.83,32.96,83.04
+Aalborg,Denmark,81.71,23.53,54.31,63.84,95.81,118.42
+Arhus,Denmark,81.83,32.82,58.75,59.12,102.57,122.82
+Copenhagen,Denmark,89.01,46.18,68.84,68.8,108.82,115.35
+Santo Domingo,Dominican Republic,53.15,15.26,35.31,46.26,42.04,24.4
+Cuenca,Ecuador,46.4,12.24,30.31,48.78,27.16,39.79
+Guayaquil,Ecuador,48.76,13.25,32.04,43.96,37.23,40.3
+Quito,Ecuador,46.2,15.38,31.69,43.43,34.86,39.61
+Cairo,Egypt,35.52,9.33,23.19,31.49,29.98,35.68
+San Salvador,El Salvador,45.03,9.83,28.46,40.92,32.44,32.31
+Tallinn,Estonia,52.73,16.71,35.77,38.16,55.23,70.96
+Tartu,Estonia,49.28,12.59,32,37.99,47.37,78.36
+Addis Ababa,Ethiopia,45.17,21.85,34.19,37.27,23.8,17.63
+Helsinki,Finland,79.71,38.41,60.26,66.84,90.98,118.11
+Tampere,Finland,77.11,24.89,52.52,63.45,90.31,112.96
+Turku,Finland,79.87,24.08,53.6,66.77,88.98,124.37
+Lille,France,73.7,24.51,50.54,64.51,71.35,104.83
+Lyon,France,80.9,23.76,54,75.57,76.21,106.72
+Marseille,France,65.07,22.26,44.91,57.97,68.76,111.98
+Nantes,France,68.39,21.37,46.25,57.62,72.59,131.19
+Paris,France,84.34,45.94,66.26,78.45,83.85,100.24
+Toulouse,France,74.76,25.66,51.64,69.93,77.48,117.27
+Tbilisi,Georgia,32.53,11.28,22.53,26.21,31.66,33.64
+Aachen,Germany,62.14,22.3,43.38,52.39,56.62,153.14
+Berlin,Germany,65.68,27.97,47.92,52.12,57.43,122.4
+Bonn,Germany,65.25,28,47.71,44.66,68.74,110.13
+Bremen,Germany,60.75,21.52,42.28,41.66,65.33,161.8
+Cologne,Germany,70.37,28.13,50.48,51.58,69.61,115.68
+Dresden,Germany,60.77,20,41.57,45.74,51.84,138.31
+Dusseldorf,Germany,91.99,39.27,67.16,82.97,84.83,108.85
+Frankfurt,Germany,76.25,33.35,56.05,63.88,70.41,131.95
+Hamburg,Germany,75.3,32.55,55.17,61.96,65.02,125.7
+Heidelberg,Germany,73.04,30.9,53.2,61.24,67.09,151.7
+Karlsruhe,Germany,69.52,31.22,51.49,53.36,67.96,119.88
+Leipzig,Germany,65.49,18.67,43.44,50.9,61.98,91.45
+Munich,Germany,74.49,40.83,58.64,59.13,74.58,134.46
+Nuremberg,Germany,66.71,23.07,46.16,50.43,69.84,151.41
+Stuttgart,Germany,69.3,28.19,49.94,53.52,67.57,142.13
+Accra,Ghana,64.16,46.19,55.7,59.38,49.11,15.31
+Athens,Greece,58.75,12.24,36.85,45.43,64.36,56.39
+Heraklion,Greece,55.99,9.16,33.94,47.38,52.76,86.21
+Patras,Greece,51.47,9.37,31.64,38.95,55.92,81.62
+Thessaloniki,Greece,55.41,10.29,34.17,42.73,57.83,61.9
+Guatemala City,Guatemala,43.98,14.56,30.12,39.39,37.1,52.41
+Hong Kong,Hong Kong,77.69,82.04,79.74,78.36,54.34,91.98
+Budapest,Hungary,44.66,15,30.7,34.54,34.59,54.73
+Debrecen,Hungary,41.66,9.82,26.66,34.79,30.25,43.72
+Reykjavik,Iceland,104.95,47.4,77.85,97.16,111.95,84.48
+Ahmedabad,India,23.99,5.32,15.2,24.59,15.88,72.71
+Bangalore,India,26.23,8.67,17.96,26.86,16.46,103.17
+Bhubaneswar,India,22.44,4.15,13.83,23.27,12.9,65.31
+Chandigarh,India,25.64,6.46,16.61,25.49,17.68,64.32
+Chennai,India,25.77,6.98,16.92,27.37,15.58,83.75
+Coimbatore,India,23.09,5.43,14.77,23.32,16.35,47.37
+Delhi,India,27.97,9.78,19.4,25.61,21.82,81.22
+Goa,India,25.44,7.8,17.13,24.28,20.63,63.66
+Gurgaon,India,30.76,9.78,20.88,29.14,26.61,106.17
+Hyderabad,India,23.48,5.85,15.18,24.37,14.33,85.16
+Indore,India,23.74,4.12,14.5,22.9,16.29,46.74
+Jaipur,India,24.81,4.2,15.11,24.46,14.66,81.83
+Kochi,India,22.82,5.09,14.47,24.31,12.76,82.94
+Kolkata,India,25.45,6.52,16.53,25.24,19.41,65.22
+Lucknow (Lakhnau),India,26.25,4.95,16.22,26.66,15.74,58.91
+Ludhiana,India,27.02,4.32,16.33,24.93,20.43,65.71
+Mangalore,India,21.88,5.15,14,21.21,12.71,114.63
+Mumbai,India,28.82,20.86,25.07,29.16,21.56,69.56
+Mysore,India,25.37,4.43,15.51,30.65,11.84,39.28
+Nagpur,India,23.09,4.22,14.2,24.32,16.84,69.95
+Navi Mumbai,India,25.7,9.39,18.02,25.27,20.83,92.33
+Noida,India,27.14,6.67,17.5,27.25,19.74,100.67
+Pune,India,25.58,7.44,17.04,26.15,17.7,116.27
+Surat,India,25.17,4.78,15.57,24.46,20.27,58.87
+Thane,India,27.73,8.56,18.7,28.16,18.03,60.4
+Thiruvananthapuram,India,19.55,4.57,12.5,19.83,11.39,81.6
+Vadodara,India,26.1,4.3,15.83,27.59,18.39,76.13
+Visakhapatnam,India,24.11,5.34,15.27,25.43,14.03,58.98
+Bali,Indonesia,39.7,13.57,27.4,42.44,22.62,26.44
+Bandung,Indonesia,35.51,7.67,22.4,41.88,15.87,29.78
+Jakarta,Indonesia,45.24,24.89,35.66,48.74,25.44,44.09
+Surabaya,Indonesia,40.92,11.78,27.2,42.55,22.53,29.07
+Yogyakarta,Indonesia,37.83,7.64,23.61,36.93,14.48,18.06
+Tehran,Iran,40.27,22.04,31.69,35.34,35.31,45.95
+Baghdad,Iraq,47.87,17.03,33.35,36.71,45.15,63.93
+Irbil,Iraq,57.3,20.32,39.89,41.98,59.79,45.09
+Cork,Ireland,75.88,34.98,56.62,64.79,79.56,135
+Dublin,Ireland,82.25,50.65,67.37,66.17,87.55,106.56
+Galway,Ireland,72.5,30.74,52.84,58.31,76.61,135.52
+Limerick,Ireland,88.14,22.25,57.11,83.24,77.72,104.15
+Beersheba,Israel,79.74,18.53,50.92,66.15,77.41,84.54
+Haifa,Israel,74.22,21.13,49.22,59.53,82.73,103.11
+Jerusalem,Israel,76.77,30.54,55,61.57,82.99,95.44
+Ramat Gan,Israel,81.18,30.86,57.49,67.72,87.36,91.46
+Tel AvivNAyafo,Israel,81.12,39.8,61.66,66.51,92.09,91.23
+Bergamo,Italy,73.26,20.52,48.43,58,87.04,89.36
+Bologna,Italy,68.94,23.85,47.71,59.31,73.98,98.03
+Brescia,Italy,63.1,17.32,41.55,51.82,66.43,102.19
+Florence,Italy,73.74,28.51,52.44,60.99,77.62,72.14
+Genoa,Italy,75.35,21.5,49.99,67.4,77.26,79.48
+Milan,Italy,76.2,39.25,58.8,65.34,85.11,86.71
+Naples,Italy,67.86,22.27,46.39,63.45,62.34,50.74
+Padova,Italy,72.54,22.24,48.86,59.31,74.26,73.55
+Parma,Italy,72.7,24.11,49.82,59.17,84.74,88.43
+Rome,Italy,71.79,38.7,56.21,60.38,77,82.5
+Trieste,Italy,68.7,20.97,46.23,59.26,78.98,94.42
+Turin,Italy,69.16,21.03,46.5,59.79,71.32,90.07
+Kingston,Jamaica,63.66,16.55,41.48,60.81,38.32,36.87
+Osaka,Japan,78.5,23.56,52.63,81.27,42.93,105.08
+Tokyo,Japan,89.74,43.44,67.94,94.03,55.66,98.09
+Amman,Jordan,58.61,13.71,37.47,48.76,57.05,46.07
+Almaty,Kazakhstan,31.03,12.24,22.18,25.15,32.52,50.24
+Astana,Kazakhstan,31.02,16.27,24.07,23.47,32.11,45.96
+Nairobi,Kenya,42.39,16.82,30.35,37.45,33.59,29.12
+Riga,Latvia,49.57,13.26,32.47,36.19,45.09,56.92
+Beirut,Lebanon,62.26,40.23,51.88,45.48,61.06,60.16
+Kaunas,Lithuania,46.3,10.24,29.32,34.83,40.08,53.56
+Vilnius,Lithuania,48.62,15.39,32.98,37.79,42.05,57.9
+Luxembourg,Luxembourg,80.99,51.47,67.09,61.68,100.81,148.47
+Skopje,Macedonia,35.72,8.69,22.99,28.3,27.61,41.69
+Johor Bahru,Malaysia,42.39,11.98,28.07,48.59,20.38,63.32
+Kota Kinabalu,Malaysia,49.08,8.46,29.96,52.52,24.77,59.29
+Kuala Lumpur,Malaysia,44.07,18.08,31.84,45.41,25.25,90.73
+Penang,Malaysia,45.86,9.53,28.75,50.78,23.44,77.63
+Selangor,Malaysia,43.91,11.88,28.83,49.84,19.28,102.6
+Male,Maldives,60.28,32.02,46.97,58.34,43.27,31.83
+Sliema,Malta,68.43,28.99,49.86,58.42,81.58,75.11
+Cancun,Mexico,37.89,11.22,25.34,30.94,35.53,63.52
+Guadalajara,Mexico,30.92,7.76,20.01,29.85,26.46,52.5
+Merida,Mexico,33.13,8.07,21.33,31.42,26.42,41.07
+Mexico City,Mexico,37.2,17.69,28.02,33.82,33.78,59.81
+Monterrey,Mexico,35.9,12.61,24.93,33.47,32.04,117.66
+Puerto Vallarta,Mexico,33.24,10.96,22.74,30.52,29.72,211.17
+Queretaro,Mexico,34.81,9.74,23.01,33.68,26.73,84.13
+Tijuana,Mexico,33.37,8.14,21.49,31.39,30.48,65.27
+Chisinau,Moldova,27.16,8.04,18.16,21.15,19.5,30.14
+Ulaanbaatar,Mongolia,61.3,36.64,49.69,60.17,31.83,21.61
+Podgorica,Montenegro,40.22,12.56,27.2,30.82,36.28,52.54
+Casablanca,Morocco,37.43,14.72,26.73,33.55,25.22,49.44
+Rabat,Morocco,39.42,12.41,26.7,33.71,26.2,41.95
+Kathmandu,Nepal,31.77,4.52,18.94,28.69,18.51,27.1
+Amsterdam,Netherlands,79.9,50.82,66.21,63.04,87.52,105.97
+Eindhoven,Netherlands,70.22,31.41,51.94,53.39,80.14,120.08
+Groningen,Netherlands,70.06,27.14,49.85,57.02,76.42,113.35
+Maastricht,Netherlands,73.37,30.33,53.1,58.37,77.9,112.76
+Rotterdam,Netherlands,72.96,27.8,51.7,56.02,86.76,118.51
+The Hague,Netherlands,78.13,40.19,60.27,61.52,87.12,115.14
+Utrecht,Netherlands,75.18,35.05,56.28,61.31,86.41,117.81
+Auckland,New Zealand,83.71,45.32,65.63,75.33,74.33,104.64
+Christchurch,New Zealand,80.52,33.05,58.17,73.04,85.35,83.5
+Hamilton,New Zealand,87.27,25.93,58.39,69.73,86.75,121.19
+Wellington,New Zealand,79.47,35.94,58.97,70.41,75.85,129.26
+Lagos,Nigeria,36.49,20.27,28.85,31.65,25.2,33.87
+Bergen,Norway,105.59,43.49,76.35,94.86,112.63,112.84
+Oslo,Norway,102.27,45.92,75.74,88.48,120.76,113.31
+Stavanger,Norway,112.21,39.92,78.17,102.76,131.01,130.96
+Trondheim,Norway,111.42,39.76,77.68,100.6,119.82,103.55
+Muscat,Oman,51.63,31.43,42.12,46.52,57.25,137.14
+Islamabad,Pakistan,32.78,9.05,21.61,28.67,23.24,37.44
+Karachi,Pakistan,28.47,6.58,18.16,26.7,21.11,45.85
+Lahore,Pakistan,31.54,6.2,19.61,27.54,27.57,45.61
+Panama City,Panama,60.57,37.97,49.93,59.96,59.04,39.95
+Asuncion,Paraguay,32.51,9.03,21.45,24.96,26.97,43.43
+Lima,Peru,40.65,18.27,30.11,35.88,27.95,50.49
+Cebu,Philippines,40.88,12.17,27.36,40.22,25.97,27.1
+Davao,Philippines,32.88,5.9,20.18,30.44,15.89,41.02
+Makati,Philippines,48.43,32.65,41,44.59,29.54,41.75
+Manila,Philippines,41.96,15.95,29.71,38.5,26.07,46.8
+Quezon City,Philippines,35.97,8.25,22.92,32.2,20.94,44.25
+Valenzuela,Philippines,31.51,3.5,18.32,31.41,15.7,39.19
+Bydgoszcz,Poland,39.89,12.04,26.77,31.25,36.3,69.55
+Gdansk,Poland,39.89,14.11,27.75,28.92,33.25,73.02
+Gdynia,Poland,38.79,12.38,26.35,30.11,32.09,73.04
+Katowice,Poland,36.61,10.89,24.5,29,29.95,80.1
+Krakow (Cracow),Poland,39.16,15.9,28.21,30.8,32.09,76.03
+Lodz,Poland,37,12.15,25.3,28.6,31.88,65.54
+Lublin,Poland,36.08,13.19,25.3,27.54,26.62,68.6
+Poznan,Poland,39.11,13.39,27,32.09,33.42,69.07
+Szczecin,Poland,38.75,10.39,25.4,30.11,30.86,68.01
+Warsaw,Poland,41.15,19.34,30.88,31.76,35.19,80.18
+Wroclaw,Poland,39.44,16.55,28.66,30.73,33.16,74.91
+Braga,Portugal,46.84,11.82,30.35,36.51,36.23,70.01
+Coimbra,Portugal,47.34,14.06,31.67,36.82,38.26,75.13
+Lisbon,Portugal,51.65,21.87,37.62,41.09,45.85,68.2
+Porto,Portugal,49.26,16.26,33.72,38.58,40.05,72.67
+San Juan,Puerto Rico,67.31,25.49,47.62,61.73,66.63,89.14
+Doha,Qatar,66.92,70.42,68.57,53.54,72.68,129.92
+Arad,Romania,34.74,8.1,22.2,28.77,26.16,61.51
+Brasov,Romania,35.57,8.66,22.9,28.37,31.28,59.83
+Bucharest,Romania,39.34,12.35,26.63,31.2,35.91,54.54
+Cluj-napoca,Romania,37.5,11.37,25.19,31.93,29.49,56.3
+Craiova,Romania,31.53,5.9,19.46,25.18,23.59,57.37
+Iasi,Romania,34.76,9.75,22.98,27.69,28.27,50.39
+Sibiu,Romania,36.53,8.09,23.14,29.26,29.35,46.94
+Timisoara,Romania,36.22,9.21,23.5,29.55,27.72,56.42
+Moscow,Russia,41.12,27.14,34.54,31.01,48.63,60.83
+Novosibirsk,Russia,30.78,10.11,21.05,27.39,27.76,52.39
+Saint Petersburg,Russia,38.06,17.41,28.34,30.16,40.38,53.91
+Yekaterinburg,Russia,33.82,11.38,23.25,27.96,34.61,51.11
+Kigali,Rwanda,39.42,13.02,26.99,31.09,29.46,28.74
+Ad Dammam,Saudi Arabia,67.75,13.5,42.21,79.66,34.24,108.9
+Al Khobar,Saudi Arabia,47.54,15.95,32.67,40.29,33.96,279.02
+Jeddah (Jiddah),Saudi Arabia,48.98,14.91,32.94,39.64,33.21,122.95
+Riyadh,Saudi Arabia,47.79,16.43,33.02,39.02,32.66,175.47
+Belgrade,Serbia,36.86,10.08,24.25,26.6,32.99,44.06
+Nis,Serbia,30.12,5.1,18.34,22.44,24.51,42.68
+Novi Sad,Serbia,34.67,6.33,21.33,25.67,28.26,49.15
+Singapore,Singapore,86.11,76.65,81.66,75.58,60.69,101.51
+Bratislava,Slovakia,49.31,20.38,35.69,43.62,38.53,74.13
+Kosice,Slovakia,46.63,15.23,31.85,42.05,30.58,61.01
+Ljubljana,Slovenia,57.08,18.04,38.7,46.87,48.35,79.95
+Cape Town,South Africa,38.15,21.62,30.37,30.92,37.72,107.47
+Durban,South Africa,36.79,13.9,26.01,28.94,35.21,106.07
+Johannesburg,South Africa,41.15,17.29,29.92,33.2,39.22,116.89
+Pretoria,South Africa,39.47,13.31,27.15,31.66,35,126.19
+Seoul,South Korea,83.2,48.58,66.9,97.12,47.99,93.33
+Barcelona,Spain,64.25,27.46,46.93,53.25,62.07,92.16
+Bilbao,Spain,65.24,27.72,47.58,55.19,69.37,97.83
+Madrid,Spain,61.48,28.83,46.11,48.78,63.21,89.26
+Malaga,Spain,51.66,17.54,35.6,42.24,47.11,108.71
+Palma De Mallorca,Spain,59.44,20.26,40.99,48.62,57.3,90.69
+Sevilla,Spain,51.96,19.57,36.71,42.31,48.98,91.42
+Valencia,Spain,53.67,16.79,36.3,43.01,53.14,92.6
+Zaragoza (Saragossa),Spain,64.52,16.53,41.93,55.92,56.39,83.35
+Colombo,Sri Lanka,36.29,11.71,24.72,40.14,20.95,25.45
+Gothenburg,Sweden,75.79,27.38,53,68.95,80.16,122.41
+Malmo,Sweden,72.16,27.69,51.22,68.19,73.3,129.25
+Stockholm,Sweden,84.85,40.97,64.19,77.06,88.93,112.88
+Uppsala,Sweden,73.69,24.01,50.3,61.77,77.08,123.97
+Basel,Switzerland,130.43,49.86,92.49,133.13,120.9,130.14
+Bern,Switzerland,120.3,46.38,85.49,118.18,117.81,144
+Geneva,Switzerland,133.14,76.32,106.39,125.78,134.71,145.3
+Lausanne,Switzerland,121.14,55.15,90.07,117.69,122.09,138.76
+Lugano,Switzerland,118.99,50.22,86.61,111.31,127.67,141.45
+Zug,Switzerland,122.1,68.16,96.7,119.77,120.27,163.79
+Zurich,Switzerland,132.32,66.33,101.25,129.27,135.98,159.67
+Kaohsiung,Taiwan,51.24,10.79,32.2,56.61,22.92,100.92
+Taipei,Taiwan,64.76,21.52,44.4,76.4,30.89,126.74
+Dar Es Salaam,Tanzania,56.99,30.68,44.6,48.48,36.92,38.5
+Bangkok,Thailand,50.51,25.91,38.93,55.05,26.04,49.86
+Chiang Mai,Thailand,41.05,12.38,27.55,49.58,19.81,33.57
+Pattaya,Thailand,44.03,16.9,31.26,48.06,25.41,26.63
+Phuket,Thailand,48.57,14.09,32.33,52.91,25.38,47.61
+Tunis,Tunisia,31.18,7.31,19.94,28.86,21.82,39.87
+Ankara,Turkey,44.84,9.02,27.97,39.6,33.33,70.6
+Antalya,Turkey,44.48,7.49,27.06,38.9,34.2,60.66
+Bursa,Turkey,42.73,7.18,25.99,36.99,29.29,73.36
+Istanbul,Turkey,49.65,17.18,34.36,42.28,36.92,58.15
+Izmir,Turkey,44.18,9.95,28.06,37.8,32.75,61.39
+Kampala,Uganda,38.69,7.9,24.19,32.94,26.61,21.56
+Dnipropetrovsk,Ukraine,26.61,6.93,17.34,19.18,20.71,27.38
+Kharkiv,Ukraine,26.11,9.97,18.51,19.64,18.84,25.15
+Kiev,Ukraine,28.61,13.17,21.34,21.46,23.53,31.96
+Lviv,Ukraine,24.48,8.66,17.03,19.63,15.41,24.75
+Odesa,Ukraine,28.43,8.39,18.99,19.73,28.55,36.44
+Abu Dhabi,United Arab Emirates,62.74,69.91,66.12,53.59,61.65,134.74
+Dubai,United Arab Emirates,69.01,76.08,72.34,56.8,64.55,122.84
+Sharjah,United Arab Emirates,58.18,31.17,45.46,48.37,46.05,117.72
+Aberdeen,United Kingdom,82.12,33.49,59.22,62.94,97.71,124.41
+Belfast,United Kingdom,62.65,23.6,44.26,57.26,70.79,109.29
+Birmingham,United Kingdom,68.23,28.54,49.54,56.23,73.46,107.67
+Brighton,United Kingdom,78.89,43.23,62.1,66.8,89.47,87.14
+Bristol,United Kingdom,74.34,37.61,57.04,64.49,83.44,98.9
+Cambridge,United Kingdom,75.12,43.75,60.35,61.83,85.1,125.5
+Cardiff,United Kingdom,67.14,25.7,47.63,57.9,73.25,125.08
+Coventry,United Kingdom,66,30.74,49.4,52.67,69.83,110.98
+Edinburgh,United Kingdom,73.15,31.89,53.72,61.54,80.34,107.1
+Glasgow,United Kingdom,70.73,27.72,50.48,56.87,84.03,114.54
+Leeds,United Kingdom,66.66,26.81,47.9,56.89,72.55,114.75
+Liverpool,United Kingdom,70.45,24.19,48.67,61.05,69.31,106.67
+London,United Kingdom,85.11,77.31,81.44,61.25,94.63,87.57
+Manchester,United Kingdom,69.41,30.39,51.04,55.72,76.98,110.15
+Newcastle Upon Tyne,United Kingdom,67.1,26.01,47.76,52.29,76.27,118.25
+Norwich,United Kingdom,73.42,26.57,51.36,56,81.17,100.54
+Nottingham,United Kingdom,66.88,24.43,46.89,60.24,64.43,134.58
+Oxford,United Kingdom,74.14,52.2,63.81,61.12,78.25,101.95
+Reading,United Kingdom,71.67,40.28,56.89,53.81,82.06,103
+Sheffield,United Kingdom,65.91,24.07,46.21,56.97,77.18,107.15
+Southampton,United Kingdom,73.22,31.68,53.66,63.49,76.56,114.19
+Akron,United States,86.83,21.98,56.3,94.44,74.23,82.19
+Albuquerque,United States,64.46,25.22,45.98,61.95,68.67,138.87
+Allentown,United States,86.59,32.41,61.08,91.75,74.59,82.12
+Anchorage,United States,95.68,43.63,71.17,95.09,86.34,142.68
+Ann Arbor,United States,66.78,41.87,55.05,62.84,62.21,160.88
+Arlington,United States,87.48,75.14,81.67,82.12,88.06,116.39
+Asheville,United States,80.21,36.91,59.82,89.02,70.28,143.33
+Atlanta,United States,73.98,40.9,58.4,74.35,68.63,151.56
+Austin,United States,69.85,50.56,60.77,66.49,69.41,126.94
+Bakersfield,United States,70.52,26.85,49.96,70.77,69.57,142.94
+Baltimore,United States,76.83,49.19,63.81,76.6,77.41,152.44
+Berkeley,United States,88.72,77.46,83.42,96.91,79.12,106.72
+Birmingham,United States,66.68,27.55,48.26,65.88,69.97,133.32
+Boise,United States,63,28.14,46.58,61.74,66.11,115.85
+Boston,United States,82.97,75.84,79.62,81.69,84.74,137.46
+Boulder,United States,77.1,57.75,67.99,69.45,83.69,143.93
+Brooklyn,United States,87.4,81.03,84.4,83.35,99.09,106.13
+Buffalo,United States,75.67,27.9,53.18,77.05,70.16,120.28
+Burlington,United States,86.69,42,65.65,96.42,77.95,127.41
+Charleston,United States,83.18,49.28,67.22,90.43,79.47,140.74
+Charlotte,United States,72.63,40.45,57.47,74.72,67.8,130.42
+Chattanooga,United States,74.05,25.84,51.35,80.51,67.4,149.64
+Chicago,United States,84.14,56.68,71.21,82.67,84.15,128.59
+Cincinnati,United States,70.77,31.67,52.36,64.3,71.51,137.97
+Cleveland,United States,78.52,30.34,55.83,79.98,71.5,116.9
+Columbia,United States,70.72,30.62,51.83,77.54,61.79,94.09
+Columbus,United States,70.75,36.67,54.7,69.46,63.62,126.35
+Dallas,United States,67.64,41.87,55.5,60.87,70.42,172.18
+Dayton,United States,69.93,22.44,47.57,70.09,61.28,115.75
+Denver,United States,78.76,53.48,66.85,75.14,76.17,126.63
+Des Moines,United States,76.63,31.16,55.22,85.47,63.94,103.54
+Detroit,United States,74.52,32.58,54.77,73.68,63.64,158.96
+Durham,United States,71.3,34.48,53.96,77.38,63.39,185.2
+Eugene,United States,71.13,31.01,52.24,77.67,60.37,138.62
+Fayetteville,United States,73.44,21.79,49.12,77.69,66.31,100.23
+Fort Collins,United States,82.96,39.16,62.34,90.86,75.52,88.36
+Fort Lauderdale,United States,74.65,58.79,67.18,73.46,73.78,108.5
+Fort Myers,United States,71.36,29.25,51.53,73.98,66.41,94.57
+Fort Worth,United States,71.99,36.37,55.22,71.98,60.74,174.79
+Fremont,United States,67.92,68.46,68.17,56.81,71.98,182.98
+Fresno,United States,76.02,32.31,55.44,72.13,77.93,105.46
+Gainesville,United States,69.92,28.26,50.3,67.91,61.78,100.68
+Grand Rapids,United States,74.83,33.36,55.31,75.09,68.1,135.47
+Greensboro,United States,75.71,26.17,52.38,81.29,60.08,169.02
+Greenville,United States,71.16,36.47,54.82,74.86,66.79,146.03
+Harrisburg,United States,72.95,25.1,50.42,77.9,64,159.64
+Hartford,United States,74.74,40.63,58.68,74.54,82.38,132.22
+Honolulu,United States,96.55,67.54,82.89,106.08,84.28,89.38
+Houston,United States,70.43,45.8,58.83,66.27,77.05,157.89
+Huntsville,United States,68.67,22.51,46.93,67.61,68.31,142.61
+Indianapolis,United States,73.72,31.1,53.66,75.48,66.08,97.08
+Irvine,United States,81.99,64.68,73.84,89.37,66.61,143.55
+Jacksonville,United States,72.31,32.84,53.72,72.99,73.37,113.46
+Jersey City,United States,74.48,64.37,69.72,72.46,63.17,175.5
+Kansas City,United States,67.05,30.23,49.71,65.07,66.85,171.96
+Knoxville,United States,69.65,30.72,51.32,75.3,64.71,126.93
+Las Vegas,United States,78.6,31.13,56.25,72.68,82.27,120.33
+Lexington,United States,77.84,28.84,54.76,80.13,69.29,117.49
+Little Rock,United States,71.4,27.29,50.63,77.12,63.25,134.28
+Los Angeles,United States,78.66,66.99,73.16,75.12,81.92,123.61
+Louisville,United States,73.37,28.13,52.07,82.03,61.41,122.48
+Madison,United States,67.64,38.03,53.7,65.62,64.57,137.47
+Melbourne,United States,79.88,29.47,56.14,92.03,68.69,113.14
+Memphis,United States,71.62,30.76,52.38,73.9,68.95,131.57
+Miami,United States,80.67,58.92,70.43,77.1,85.97,107.88
+Milwaukee,United States,72.63,32.67,53.81,71.81,74.69,133.67
+Minneapolis,United States,80.8,41.67,62.37,87.79,69.4,126.76
+Mobile,United States,65.23,24.49,46.05,64.72,64.21,157.92
+Nashville,United States,71.35,45,58.94,71.16,71.59,148.72
+New Haven,United States,90.72,49.07,71.11,102.15,97.55,142.42
+New Orleans,United States,75.6,39.48,58.6,73.77,76.65,96.19
+New York,United States,100,100,100,100,100,100
+Newark,United States,69.12,35.57,53.32,58.79,79.41,144.2
+Oakland,United States,88.33,76.78,82.89,93.02,87.52,107.49
+Oklahoma City,United States,63.42,28.1,46.79,67.05,59.47,138.82
+Orlando,United States,76.94,39.23,59.18,82.48,73.06,123.06
+Pensacola,United States,69.3,29.13,50.38,71.68,63.45,117.75
+Philadelphia,United States,82.94,50.64,67.73,84.09,77.52,114.4
+Phoenix,United States,67.93,32.05,51.03,62.73,68.76,168.86
+Pittsburgh,United States,79.94,36.4,59.44,80.09,73.36,161.24
+Plano,United States,73.5,39,57.25,66.76,62.84,183.54
+Portland,United States,78.25,38.41,59.49,76.91,87.2,98.56
+Portland,United States,81.19,51.25,67.09,82.36,75.97,119.29
+Queens,United States,83.86,56.16,70.82,82.2,81.7,135.22
+Raleigh,United States,69.51,34.68,53.11,71.61,67.9,166.71
+Reno,United States,60.96,29.86,46.32,52.83,66.35,119.61
+Rochester,United States,66.85,30.55,49.76,65.71,70.13,127.45
+Sacramento,United States,78.67,38.71,59.85,79.07,73.79,129
+Saint Louis,United States,72.33,29.32,52.08,73.06,66.14,146.78
+Saint Paul,United States,74.19,34.95,55.71,74.37,69.46,107.26
+Saint Petersburg,United States,81.79,38.14,61.24,86.31,76.34,152.32
+Salem,United States,67.2,30.2,49.78,65.55,66.53,107.07
+Salt Lake City,United States,67.13,33.25,51.18,66.63,67.63,159.97
+San Antonio,United States,60.65,34.63,48.4,58.26,58.25,146.93
+San Diego,United States,77.8,60.29,69.55,78.54,77.63,127.68
+San Francisco,United States,95.97,125.55,109.9,105.17,91.15,105.63
+San Jose,United States,79.98,84.7,82.2,81.77,78.78,173.76
+Santa Barbara,United States,83.18,72.87,78.32,85.63,84.56,116.91
+Seattle,United States,84.58,64.3,75.03,85.39,77.59,136.44
+Shreveport,United States,66.2,24.69,46.66,65.76,63.81,109.19
+Spokane,United States,71.9,26.44,50.49,71.33,74.82,110.11
+Springfield,United States,58.64,19.49,40.21,60.45,55.21,110.62
+Syracuse,United States,71.78,26.07,50.26,73.09,62.37,105.53
+Tacoma,United States,73.76,34.17,55.12,67.49,70.56,135.39
+Tallahassee,United States,72.12,30.63,52.59,79.63,60.62,102.11
+Tampa,United States,71.66,38.6,56.09,75.08,67.05,108.17
+Tucson,United States,62.28,23.34,43.94,61.04,62.63,160.79
+Tulsa,United States,67.27,30.82,50.11,71.62,57.75,139.3
+Vancouver,United States,72.63,32.89,53.92,73.27,64.92,130.92
+Washington DC,United States,95.05,77.54,86.8,89.46,90.81,118.76
+West Palm Beach,United States,81.45,44.94,64.26,85.18,77.06,137.07
+Wichita,United States,70.95,23.05,48.39,76.39,63.4,120.26
+Montevideo,Uruguay,63.19,18.33,42.07,51.34,57.05,40.27
+Caracas,Venezuela,54.25,10.49,33.64,39.35,43.21,2.05
+Hanoi,Vietnam,40.74,17.51,29.8,37.21,21.41,24.3
+Ho Chi Minh City,Vietnam,42.5,19.28,31.57,44.07,19.83,28.25
+Harare,Zimbabwe,52.52,15.68,35.17,41.76,43.33,28.42
